@@ -1,4 +1,5 @@
 /* rs-theme-name: Chaos Comte */
+/* Derived from Chaos theme, added Comte as the mayor objective was to see comments better, but Comte sounds like a real name */
 /* rs-theme-is-dark: TRUE */
 .ace_gutter {
   background: #141414;
