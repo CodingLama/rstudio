@@ -27,15 +27,14 @@
   background: #1D1D1D;
 }
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
-  background-color: #161616;
+  background-color: #141414;
   color: #E6E1DC;
 }
 .ace_cursor {
-  border-left: 2px solid #FFFFFF;
+  color: #FFFFFF;
 }
-.ace_cursor.ace_overwrite {
-  border-left: 0px;
-  border-bottom: 1px solid #FFFFFF;
+.ace_marker-layer .ace_selection {
+  background: #161616;
 }
 .ace_marker-layer .ace_selection {
   background: #494836;
